@@ -1,6 +1,6 @@
 # Tender Scope
 
-Interview assessment project for **Knut Lab**, built using [Tenders.Guru API](https://tenders.guru/api/). This frontend application displays public tenders in Hungary using modern frontend technologies with a responsive and clean UI.
+Interview assessment project for **PT Knut Solutions**, built using [Tenders.Guru API](https://tenders.guru/api/). This frontend application displays public tenders in Hungary using modern frontend technologies with a responsive and clean UI.
 
 Live demo: [https://tender-scope.vercel.app](https://tender-scope.vercel.app)
 
